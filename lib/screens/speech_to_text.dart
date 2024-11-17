@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
 
 class SpeechRecognitionPage extends StatefulWidget {
-  const SpeechRecognitionPage({super.key});
-
   @override
   _SpeechRecognitionPageState createState() => _SpeechRecognitionPageState();
 }
